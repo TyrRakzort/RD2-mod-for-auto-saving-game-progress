@@ -1,0 +1,20 @@
+Copyright © 2025 TyrRakzort
+
+Mod: Save Sentinel – RDR2 AutoBackup System  
+Creation Date: July 2025  
+Author: TyrRakzort
+
+This mod was created by TyrRakzort and is distributed freely for personal use. Redistribution, modification, or inclusion in other packages without the author's explicit consent is strictly prohibited.
+
+Permitted:
+- Use of this mod for personal Red Dead Redemption 2 gameplay
+- Sharing links to the original mod with clear credit to the author
+
+Not Permitted:
+- Republishing the mod on any platform without permission
+- Removing or altering original author credits
+
+This project is protected by copyright. By using this mod, you agree to respect the terms described above.  
+For questions, collaboration, or redistribution permissions, contact the author.
+
+Ride safe, and back up better.
