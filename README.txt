@@ -5,7 +5,7 @@ A complete automatic backup solution for Red Dead Redemption 2. This mod links t
 
 ⚙️ Mod Architecture:
 | Component | Function | Details | 
-| autoBackup.lua | Triggers the .vbs when gameplay begins | Uses RedLua to execute once per game session | 
+| Load_bat.lua | Triggers the .vbs when gameplay begins | Uses RedLua to execute once per game session | 
 | Laucher.vbs | Silently runs the .bat and logs activity | Hidden process; logs the action to a local text file | 
 | RDR2-Start_save_backup.bat | Monitors game status and backs up save file | Rotates up to three backups; handles file locks and cleanup routines | 
 
@@ -20,7 +20,7 @@ A complete automatic backup solution for Red Dead Redemption 2. This mod links t
 C:\Users\your Windows profile\Documents\Rockstar Games\Red Dead Redemption 2\Profiles\Your save game files (this number varies for each person).
 
 🚀 Installation:
-- Place autoBackup.lua in RedLua\script folder.
+- Place Load_bat.lua in RedLua\script folder.
 - Copy the Settings.json and Log.conf files into the Redlua folder; this will hide the Redlua console and make it transparent.
 - Keep Laucher.vbs and the .bat in the your save game files
 - In the .lua file, customize your profile ID(Your save game files)
