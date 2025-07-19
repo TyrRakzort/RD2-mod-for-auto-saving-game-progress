@@ -20,7 +20,8 @@ A complete automatic backup solution for Red Dead Redemption 2. This mod links t
 C:\Users\andre\Documents\Rockstar Games\Red Dead Redemption 2\Profiles\Your save game files (this number varies for each person).
 
 🚀 Installation:
-- Place autoBackup.lua in RedLua’s script folder.
+- Place autoBackup.lua in RedLua\script folder.
+- Copy the Settings.json and Log.conf files into the Redlua folder; this will hide the Redlua console and make it transparent.
 - Keep Laucher.vbs and the .bat in the your save game files
 - In the .lua file, customize your profile ID(Your save game files)
 - In the RDR2-SAVE_SENTINEL file, you can modify the save game name and the time interval for saving the game.
