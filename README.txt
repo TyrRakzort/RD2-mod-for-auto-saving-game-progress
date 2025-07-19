@@ -7,7 +7,7 @@ A complete automatic backup solution for Red Dead Redemption 2. This mod links t
 | Component | Function | Details | 
 | Load_bat.lua | Triggers the .vbs when gameplay begins | Uses RedLua to execute once per game session | 
 | Laucher.vbs | Silently runs the .bat and logs activity | Hidden process; logs the action to a local text file | 
-| RDR2-Start_save_backup.bat | Monitors game status and backs up save file | Rotates up to three backups; handles file locks and cleanup routines | 
+| RDR2-SAVE_SENTINEL.bat | Monitors game status and backs up save file | Rotates up to three backups; handles file locks and cleanup routines | 
 
 🧠 Key Features:
 - 🕶️ Stealthy execution — no pop-up windows
