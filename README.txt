@@ -17,7 +17,7 @@ A complete automatic backup solution for Red Dead Redemption 2. This mod links t
 - 🔄 Smart cycle control with file cleanup logic
 
 📂 Your save game files are located in::
-C:\Users\andre\Documents\Rockstar Games\Red Dead Redemption 2\Profiles\Your save game files (this number varies for each person).
+C:\Users\your Windows profile\Documents\Rockstar Games\Red Dead Redemption 2\Profiles\Your save game files (this number varies for each person).
 
 🚀 Installation:
 - Place autoBackup.lua in RedLua\script folder.
